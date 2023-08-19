@@ -374,7 +374,7 @@ pluralizelisttitles = false
     author = "Barkerland"
     defaultKeywords = ["barkerland", "micronation", "fort walton beach"]
     mainSections = ["blog"]
-    defaultDescription = "Barkerland is am micronation founded by Beckett Barker."
+    defaultDescription = "Barkerland is a micronation founded by Beckett Barker."
 
     # # Social media
     # facebook_site = "" # the Facebook handle of your site ('https://www.facebook.com/HANDLE')
