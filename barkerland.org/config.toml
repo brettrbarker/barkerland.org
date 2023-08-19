@@ -1,6 +1,6 @@
-baseURL = 'http://eclinux.org/'
+baseURL = 'http://barkerland.org/'
 languageCode = 'en-us'
-title = 'Emerald Coast Linux Users Group'
+title = 'Barkerland - A Micronation'
 theme = 'hugo-universal-theme'
 #themesDir = "../.."
 
