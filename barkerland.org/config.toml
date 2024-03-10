@@ -335,11 +335,11 @@ pluralizelisttitles = false
 #     weight     = 1
 #     parent     = "section.ap-blog"
 
-#[[menu.main]]
-#    name       = "Blog/Notes"
-#    identifier = "menu.blog"
-#    url        = "/blog/"
-#    weight     = 5
+[[menu.main]]
+   name       = "Barkerland News"
+   identifier = "menu.blog"
+   url        = "/blog/"
+   weight     = 5
 
 # [[menu.main]]
 #     name       = "FAQ"
@@ -514,10 +514,10 @@ pluralizelisttitles = false
     subtitle = ""
 
 [params.recent_posts]
-    enable = false
-    title = "From our blog"
-    subtitle = "Here is the latest from our blog. This includes meeting notes and other topics our members find interesting. Any EC Linux member is welcome to contribute an article. We will also provide outlines and links to topics we discuss at our monthly gatherings."
-    hide_summary = false
+    enable = true
+    title = "Barkerland News"
+    #subtitle = "Catch up on the latest news from Barkerland."
+    hide_summary = true
 
 [params.footer.recent_posts]
     enable = false
